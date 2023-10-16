@@ -1,6 +1,6 @@
 {
-    "name": "novo_lisemodas_app",
-    "short_name": "novo_lisemodas_app",
+    "name": "mercado_de_bebidas",
+    "short_name": "mercado_de_bebidas",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

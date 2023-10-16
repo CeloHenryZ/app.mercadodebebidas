@@ -1,13 +1,13 @@
 {
     "configurations": [
         {
-            "name": "novo_lisemodas_app",
+            "name": "mercado_de_bebidas",
             "program": "lib/main.dart",
             "request": "launch",
             "type": "dart",
             "args": [
                     "--no-sound-null-safety"
                 ]
-        }   
+        }
     ]
 }

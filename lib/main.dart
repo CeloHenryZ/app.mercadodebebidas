@@ -1,7 +1,5 @@
 import 'dart:io';
 import 'dart:typed_data';
-
-import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import 'package:flutter/material.dart';
 import 'package:loja_mercado_de_bebidas/app/model/produto.dart';
 import 'package:flutter/services.dart';
